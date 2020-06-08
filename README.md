@@ -4,7 +4,7 @@
 ``Please don't abuse these APIs.``
 ### Show some :heart: and :star: the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/cyberboysumanjay/apis.svg?style=social&label=Star)](https://github.com/cyberboysumanjay/GaanaAPI) ![GitHub followers](https://img.shields.io/github/followers/cyberboysumanjay.svg?style=social&label=Follow)
+[![GitHub stars](https://img.shields.io/github/stars/cyberboysumanjay/apis.svg?style=social&label=Star)](https://github.com/cyberboysumanjay/APIs) ![GitHub followers](https://img.shields.io/github/followers/cyberboysumanjay.svg?style=social&label=Follow)
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/sjprojects)
 
