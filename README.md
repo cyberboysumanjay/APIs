@@ -1,4 +1,4 @@
-## APIs
+## <center>APIs</center>
 **Note that these APIs can stop working at the moment you start using them.**
 
 ``Please don't abuse these APIs.``
@@ -8,8 +8,10 @@
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/sjprojects)
 
-## :closed_lock_with_key: **Closed Source APIs**
-### **Torrent Search** :mag:
+---
+## <center>:closed_lock_with_key: **Closed Source APIs**</center>
+---
+### **1) Torrent Search** :mag:
 ##### Usage:  
 
 ```sh
@@ -18,7 +20,7 @@ http://sjprojectsapi.herokuapp.com/torrent/?query={your-query-here}
 ##### **Example:** https://sjprojectsapi.herokuapp.com/torrent/?query=ubuntu
 
 ---
-### **Coronavirus Status** :bar_chart:
+### **2) Coronavirus Status** :bar_chart:
 ##### Usage for Global Results:  
 
 ```sh
@@ -32,9 +34,10 @@ http://sjprojectsapi.herokuapp.com/covid/?country={Country-Name-or-Code-Here}
 ```
 
 ##### **Example:** https://sjprojectsapi.herokuapp.com/covid/?country=India
+---
 
-
-## :unlock: Open Sourced APIs
+## <center>:unlock: Open Sourced APIs</center>
+---
 ### [Gaana API](https://github.com/cyberboysumanjay/GaanaAPI)
 ### [JioSaavn API](https://github.com/cyberboysumanjay/JioSaavnAPI)
 ### [JioMusic API](https://github.com/cyberboysumanjay/JioMusicAPI)
