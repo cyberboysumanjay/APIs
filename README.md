@@ -10,6 +10,8 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cyberboysumanjay/APIs)
 
 ---
+#### **If you make something useful using these APIs feel free to add your amazing work in `Made using these APIs` section and send a pull request.**
+---
 ## <center>:closed_lock_with_key: **Closed Source APIs**</center>
 ---
 ### **1) Torrent Search** :mag:
@@ -57,6 +59,9 @@ https://sjprojectsapi.herokuapp.com/ss/?url={Website-URL-Here}
 
 `Cookie Banners, Ads and Tracking Scripts are disabled by default while taking Screenshots`
 ##### **Example:** https://sjprojectsapi.herokuapp.com/ss/?url=https://github.com/cyberboysumanjay/APIs/blob/master/README.md&m=True&full=True&delay=5
+
+### **Note:** ```The API is hosted on Heroku so it may be slow to respond.```
+
 ---
 
 ## <center>:unlock: Open Sourced APIs</center>
@@ -67,11 +72,15 @@ https://sjprojectsapi.herokuapp.com/ss/?url={Website-URL-Here}
 ### [Carbon API](https://github.com/cyberboysumanjay/Carbon-API)
 ### [Inshorts News API](https://github.com/cyberboysumanjay/Inshorts-News-API)
 
+---
+## <center>:star: Made using these APIs :star:</center>
+---
+#### [@songdl_bot](https://t.me/songdl_bot): Music Downloading Bot on Telegram
+#### [Musify](https://kutt.it/songdlapp): Music Downloader Android App
+#### [@torrentsearcher_bot](https://t.me/torrentsearcher_bot): Torrent Search Bot on Telegram
 
-
-### **Note:** ```The API is hosted on Heroku so it may be slow to respond.```
-
-
-#### Star the Repo if you find it useful :heart:
+---
+### Star the Repo if you find it useful :heart:
 ### © [Sumanjay](https://cyberboysumanjay.github.io)
-All Rights Reserved
+#### All Rights Reserved
+---
