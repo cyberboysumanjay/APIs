@@ -13,28 +13,50 @@
 ## <center>:closed_lock_with_key: **Closed Source APIs**</center>
 ---
 ### **1) Torrent Search** :mag:
+Searches for torrents on various torrent search engines.
 ##### Usage:  
 
 ```sh
-http://sjprojectsapi.herokuapp.com/torrent/?query={your-query-here}
+https://sjprojectsapi.herokuapp.com/torrent/?query={your-query-here}
 ```
 ##### **Example:** https://sjprojectsapi.herokuapp.com/torrent/?query=ubuntu
 
 ---
-### **2) Coronavirus Status** :bar_chart:
+### **2) Coronavirus Stats** :bar_chart:
+Show the Coronavirus Statistics in requested region.
 ##### Usage for Global Results:  
 
 ```sh
-http://sjprojectsapi.herokuapp.com/covid/
+https://sjprojectsapi.herokuapp.com/covid/
 ```
 ##### **Example:** https://sjprojectsapi.herokuapp.com/covid/
 ##### Usage for Countrywise Results:  
 
 ```sh
-http://sjprojectsapi.herokuapp.com/covid/?country={Country-Name-or-Code-Here}
+https://sjprojectsapi.herokuapp.com/covid/?country={Country-Name-or-Code-Here}
 ```
 
 ##### **Example:** https://sjprojectsapi.herokuapp.com/covid/?country=India
+---
+
+### **3) Web Screenshot** :camera:
+Captures Screenshot of a Website from URL
+##### Usage:  
+
+```sh
+https://sjprojectsapi.herokuapp.com/ss/?url={Website-URL-Here}
+```
+
+**Optional Supported Args**
+
+`delay`: `int` Time to wait before taking Screenshot.(Max 10 Seconds)
+
+`m`: `boolean` Setting this to True will enable mobile resolution and set User-Agent to Chrome Android. **(Experimental)**
+
+`full`: `boolean` Captures full page Screenshot **(No infinite Scrolling)** :neutral_face:
+
+`Cookie Banners, Ads and Tracking Scripts are disabled by default while taking Screenshots`
+##### **Example:** https://sjprojectsapi.herokuapp.com/ss/?url=https://github.com/cyberboysumanjay/APIs/blob/master/README.md&m=True&full=True&delay=5
 ---
 
 ## <center>:unlock: Open Sourced APIs</center>
@@ -51,4 +73,5 @@ http://sjprojectsapi.herokuapp.com/covid/?country={Country-Name-or-Code-Here}
 
 
 #### Star the Repo if you find it useful :heart:
-# © [Sumanjay](https://cyberboysumanjay.github.io)
+### © [Sumanjay](https://cyberboysumanjay.github.io)
+All Rights Reserved
