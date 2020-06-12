@@ -32,6 +32,15 @@ Show the Coronavirus Statistics in requested region.
 https://sjprojectsapi.herokuapp.com/covid/
 ```
 ##### **Example:** https://sjprojectsapi.herokuapp.com/covid/
+---
+##### Usage for Detailed Indian Results:  
+
+```sh
+https://sjprojectsapi.herokuapp.com/covid/india/
+```
+
+##### **Example:** https://sjprojectsapi.herokuapp.com/covid/india/
+---
 ##### Usage for Countrywise Results:  
 
 ```sh
