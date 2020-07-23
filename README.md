@@ -19,9 +19,9 @@ Searches for torrents on various torrent search engines.
 ##### Usage:  
 
 ```sh
-https://sjprojectsapi.herokuapp.com/torrent/?query={your-query-here}
+https://api.sumanjay.cf/torrent/?query={your-query-here}
 ```
-##### **Example:** https://sjprojectsapi.herokuapp.com/torrent/?query=ubuntu
+##### **Example:** https://api.sumanjay.cf/torrent/?query=ubuntu
 
 ---
 ### **2) Coronavirus Stats** :bar_chart:
@@ -29,25 +29,25 @@ Show the Coronavirus Statistics in requested region.
 ##### Usage for Global Results:  
 
 ```sh
-https://sjprojectsapi.herokuapp.com/covid/
+https://api.sumanjay.cf/covid/
 ```
-##### **Example:** https://sjprojectsapi.herokuapp.com/covid/
+##### **Example:** https://api.sumanjay.cf/covid/
 ---
 ##### Usage for Detailed Indian Results:  
 
 ```sh
-https://sjprojectsapi.herokuapp.com/covid/india/
+https://api.sumanjay.cf/covid/india/
 ```
 
-##### **Example:** https://sjprojectsapi.herokuapp.com/covid/india/
+##### **Example:** https://api.sumanjay.cf/covid/india/
 ---
 ##### Usage for Countrywise Results:  
 
 ```sh
-https://sjprojectsapi.herokuapp.com/covid/?country={Country-Name-or-Code-Here}
+https://api.sumanjay.cf/covid/?country={Country-Name-or-Code-Here}
 ```
 
-##### **Example:** https://sjprojectsapi.herokuapp.com/covid/?country=India
+##### **Example:** https://api.sumanjay.cf/covid/?country=India
 ---
 
 ### **3) Web Screenshot** :camera:
@@ -55,7 +55,7 @@ Captures Screenshot of a Website from URL
 ##### Usage:  
 
 ```sh
-https://sjprojectsapi.herokuapp.com/ss/?url={Website-URL-Here}
+https://api.sumanjay.cf/ss/?url={Website-URL-Here}
 ```
 
 **Optional Supported Args**
@@ -67,7 +67,7 @@ https://sjprojectsapi.herokuapp.com/ss/?url={Website-URL-Here}
 `full`: `boolean` Captures full page Screenshot **(No infinite Scrolling)** :neutral_face:
 
 `Cookie Banners, Ads and Tracking Scripts are disabled by default while taking Screenshots`
-##### **Example:** https://sjprojectsapi.herokuapp.com/ss/?url=https://github.com/cyberboysumanjay/APIs/blob/master/README.md&m=True&full=True&delay=5
+##### **Example:** https://api.sumanjay.cf/ss/?url=https://github.com/cyberboysumanjay/APIs/blob/master/README.md&m=True&full=True&delay=5
 
 ### **Note:** ```The API is hosted on Heroku so it may be slow to respond.```
 
