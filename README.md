@@ -87,7 +87,7 @@ https://api.sumanjay.cf/ss/?url={Website-URL-Here}
 #### [@songdl_bot](https://t.me/songdl_bot): Music Downloading Bot on Telegram
 #### [Musify](https://kutt.it/songdlapp): Music Downloader Android App
 #### [@torrentsearcher_bot](https://t.me/torrentsearcher_bot): Torrent Search Bot on Telegram
-#### [Torrflix](https://github.com/Gulshan2002/torrentstreamer): Torrent video streaming script.
+#### [Torrflix](https://github.com/yadavgulshan/torrentstreamer): Torrent video streaming script.
 
 ---
 ### Star the Repo if you find it useful :heart:
