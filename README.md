@@ -68,7 +68,19 @@ https://api.sumanjay.cf/ss/?url={Website-URL-Here}
 
 `Cookie Banners, Ads and Tracking Scripts are disabled by default while taking Screenshots`
 ##### **Example:** https://api.sumanjay.cf/ss/?url=https://github.com/cyberboysumanjay/APIs/blob/master/README.md&m=True&full=True&delay=5
+---
 
+### **4) Ekart Order Tracking** :truck:
+Gets your Ekart order status from your Tracking ID 
+##### Usage:  
+
+```sh
+https://api.sumanjay.cf/ekart/{Tracking-ID}
+```
+
+##### **Example:** https://api.sumanjay.cf/ekart/FMPP0586114789
+
+---
 ### ~~**Note:** ```The API is hosted on Heroku so it may be slow to respond.```~~
 
 ---
