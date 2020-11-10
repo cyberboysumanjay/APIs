@@ -100,6 +100,7 @@ https://api.sumanjay.cf/ekart/{Tracking-ID}
 #### [Musify](https://kutt.it/songdlapp): Music Downloader Android App
 #### [@torrentsearcher_bot](https://t.me/torrentsearcher_bot): Torrent Search Bot on Telegram
 #### [Torrflix](https://github.com/yadavgulshan/torrentstreamer): Torrent video streaming script.
+#### [Magnet_Finder](https://chrome.google.com/webstore/detail/magnet-finder/gmmdnbmmjmoddokgggkbfehpbfepaman/related?hl=pt-BR&authuser=0): Chrome extension to find magnet links.
 
 ---
 ### Star the Repo if you find it useful :heart:
