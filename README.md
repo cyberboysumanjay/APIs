@@ -81,6 +81,26 @@ https://api.sumanjay.cf/ekart/{Tracking-ID}
 ##### **Example:** https://api.sumanjay.cf/ekart/FMPP0586114789
 
 ---
+
+### **5) Where to Watch Movies/Series** :movie_camera:
+Fetches all platform names and links where you can stream your favourite Movies/TV Shows!
+##### Usage for General Results:  
+
+```sh
+https://watch.vercel.app/<movie-name>
+```
+
+##### **Example:** https://watch.vercel.app/3Idiots
+---
+##### Usage for Country Specific Results:
+
+```sh
+https://watch.vercel.app/<movie-name>/<2-digit-country-code>
+```
+
+##### **Example:** https://watch.vercel.app/GOT/US
+
+---
 ### ~~**Note:** ```The API is hosted on Heroku so it may be slow to respond.```~~
 
 ---
@@ -99,7 +119,7 @@ https://api.sumanjay.cf/ekart/{Tracking-ID}
 #### [@songdl_bot](https://t.me/songdl_bot): Music Downloading Bot on Telegram
 #### [Musify](https://kutt.it/songdlapp): Music Downloader Android App
 #### [@torrentsearcher_bot](https://t.me/torrentsearcher_bot): Torrent Search Bot on Telegram
-#### [https://torrentspace.cf](https://torrentspace.cf): A simple webpage for searching Torrent.
+#### [Torrentspace](https://torrentspace.cf): A simple webpage for searching Torrent.
 #### [Torrflix](https://github.com/yadavgulshan/torrentstreamer): Torrent video streaming script.
 #### [Magnet_Finder](https://chrome.google.com/webstore/detail/magnet-finder/gmmdnbmmjmoddokgggkbfehpbfepaman/related?hl=pt-BR&authuser=0): Chrome extension to find magnet links.
 
