@@ -87,18 +87,18 @@ Fetches all platform names and links where you can stream your favourite Movies/
 ##### Usage for General Results:  
 
 ```sh
-https://watch.vercel.app/<movie-name>
+https://api.sumanjay.cf/watch/<movie-name>
 ```
 
-##### **Example:** https://watch.vercel.app/3Idiots
+##### **Example:** https://api.sumanjay.cf/watch/3Idiots
 ---
 ##### Usage for Country Specific Results:
 
 ```sh
-https://watch.vercel.app/<movie-name>/<2-digit-country-code>
+https://api.sumanjay.cf/watch/<movie-name>/<2-digit-country-code>
 ```
 
-##### **Example:** https://watch.vercel.app/GOT/US
+##### **Example:** https://api.sumanjay.cf/watch/GOT/US
 
 ---
 ### ~~**Note:** ```The API is hosted on Heroku so it may be slow to respond.```~~
