@@ -122,6 +122,8 @@ https://api.sumanjay.cf/watch/<movie-name>/<2-digit-country-code>
 #### [Torrentspace](https://torrentspace.cf): A simple webpage for searching Torrent.
 #### [Torrflix](https://github.com/yadavgulshan/torrentstreamer): Torrent video streaming script.
 #### [Magnet_Finder](https://chrome.google.com/webstore/detail/magnet-finder/gmmdnbmmjmoddokgggkbfehpbfepaman/related?hl=pt-BR&authuser=0): Chrome extension to find magnet links.
+#### [Movie-Info-Bot](https://github.com/FayasNoushad/Movie-Info-Bot): Movie information finder telegram bot repo.
+#### [Corona-Info-Bot](https://github.com/FayasNoushad/Corona-Info-Bot): Corona information finder telegram bot repo.
 
 ---
 ### Star the Repo if you find it useful :heart:
