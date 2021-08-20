@@ -119,6 +119,7 @@ https://api.sumanjay.cf/watch/<movie-name>/<2-digit-country-code>
 #### [@songdl_bot](https://t.me/songdl_bot): Music Downloading Bot on Telegram
 #### [Musify](https://kutt.it/songdlapp): Music Downloader Android App
 #### [@torrentsearcher_bot](https://t.me/torrentsearcher_bot): Torrent Search Bot on Telegram
+#### [@FnMovieBot](https://telegram.me/FnMovieBot): Movie Information Search Bot on Telegram.
 #### [Torrentspace](https://torrentspace.cf): A simple webpage for searching Torrent.
 #### [Torrflix](https://github.com/yadavgulshan/torrentstreamer): Torrent video streaming script.
 #### [Magnet_Finder](https://chrome.google.com/webstore/detail/magnet-finder/gmmdnbmmjmoddokgggkbfehpbfepaman/related?hl=pt-BR&authuser=0): Chrome extension to find magnet links.
