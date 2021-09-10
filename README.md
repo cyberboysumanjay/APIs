@@ -19,9 +19,9 @@ Searches for torrents on various torrent search engines.
 ##### Usage:  
 
 ```sh
-https://sumanjay.azurewebsites.net/torrent/?query={your-query-here}
+https://sumanjay.up.railway.app/torrent/?query={your-query-here}
 ```
-##### **Example:** https://sumanjay.azurewebsites.net/torrent/?query=ubuntu
+##### **Example:** https://sumanjay.up.railway.app/torrent/?query=ubuntu
 
 ---
 ### **2) Coronavirus Stats** :bar_chart:
