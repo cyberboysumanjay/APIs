@@ -126,6 +126,7 @@ https://api.sumanjay.cf/watch/<movie-name>/<2-digit-country-code>
 #### [Movie-Info-Bot](https://github.com/FayasNoushad/Movie-Info-Bot): Movie information finder telegram bot repo.
 #### [Movie-Info-Bot-V2](https://github.com/FayasNoushad/Movie-Info-Bot-V2): An advanced movie information finder telegram bot repo.
 #### [Corona-Info-Bot](https://github.com/FayasNoushad/Corona-Info-Bot): Corona information finder telegram bot repo.
+#### [Corona-Info](https://github.com/FayasNoushad/Corona-Info): Corona information finder module
 
 ---
 ### Star the Repo if you find it useful :heart:
